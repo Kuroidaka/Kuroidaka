@@ -11,6 +11,4 @@
 </li>
 </ul>
 
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/idaka123/count.svg)
 
